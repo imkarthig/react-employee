@@ -1,0 +1,154 @@
+
+*{
+  color:black;
+  font-family: 'Roboto';
+
+}
+h1,h2,h3{
+  font-size: 22px;
+}
+.navbar {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+
+
+}
+.logo{
+  margin-left: 20PX;
+  width: 80px;
+  border-radius: 50%;
+}
+
+.logoend {
+  width: 60px;
+  height: auto;
+  border-radius: 50px;
+}
+.menu{
+  position: relative;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+
+  margin-top: 50px;
+  width: 1000px;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+
+}
+.container-table{
+
+width: 100%;
+
+}
+
+.em-img{
+  border-radius: 50%;
+  width: 30px;
+
+}
+input {
+width: 400px;
+  border: 2px solid #111d5e;
+  border-radius: 10px 0 0 10px;
+  border-right: none;
+  outline: none;
+  font-size: 20px;
+  color: black;
+  background: none;
+  height: 40px;
+}
+
+
+.btn {
+  width: 10em;
+  height: 6ex;
+  background-image: linear-gradient(135deg, #5f80ee 40%, #7c4dfc);
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+}
+
+.btn:active {
+  box-shadow: 2px 2px 5px #904dfc;
+
+}
+
+.logged-in {
+  color:#4fce79;
+
+  position: absolute;
+  top: 35px;
+  right: 5px;
+  font-size: 22px;
+}
+
+.btn-s {
+
+  border: 2px solid #111d5e;
+  border-radius: 0px 10px 10px 0px;
+height: 40px;
+  border-left: none;
+  outline: none;
+  font-size: 20px;
+  color: black;
+  background: none;
+}
+/* 
+ffffffffffffffffffffffffffff */
+.container-em{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:space-around;
+
+}
+.borderbox-em{
+  margin-top: 50px;
+
+  width: 1000px;
+
+
+}
+.img-em{
+  width: 50px;
+  border-radius: 50%;
+}
+.card-para{
+  display: flex;
+  justify-content: center;
+}
+.card{
+  display: flex;
+ width: 950px;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+.card-e{
+  display: flex;
+ 
+  justify-content: space-between;
+  padding: 0px 20px 0px;
+  margin: 0;
+  align-items: center;
+  background-color: rgb(202, 183, 228);
+}
+.name{
+ color: #7c4dfc ;
+}
+/* hhhhhhhhhhh */
