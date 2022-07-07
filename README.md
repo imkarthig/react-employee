@@ -1,3 +1,3 @@
 # react-employee
 Using UI and React,Redux
-#click me(https://imkarthig.github.io/react-employee/)
+# To run this project [Click here](https://imkarthig.github.io/react-employee/)
